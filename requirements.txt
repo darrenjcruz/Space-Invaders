@@ -1,0 +1,19 @@
+astroid==2.15.5
+black==23.3.0
+click==8.1.3
+dill==0.3.6
+isort==5.12.0
+lazy-object-proxy==1.9.0
+mccabe==0.7.0
+mypy-extensions==1.0.0
+packaging==23.1
+pathspec==0.11.1
+platformdirs==3.5.1
+pycodestyle==2.10.0
+pygame==2.4.0
+pylint==2.17.4
+tomli==2.0.1
+tomlkit==0.11.8
+typing-extensions==4.5.0
+-e git+https://github.com/cpsc-spring-2023/cpsc-386-05-invaders-darrenjcruz.git@644b2fd01147b662bb38490daaa2e31636f4f4dd#egg=videogame&subdirectory=videogame
+wrapt==1.15.0
